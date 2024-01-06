@@ -1,7 +1,7 @@
 # Tracking Using Detection and Hungarian Algorithm
 
 ### Description
-A Human Tracking Model which tracks each person with a specific id. The model uses YOLOX to detect people in each frame, and match the id with bounding boxes by using Hungarian Algorithm. It has a great performance in scenes where crowds frequently intersect."
+A Human Tracking Model which tracks each person with a specific id. The model uses YOLOX to detect people in each frame, and match the id with bounding boxes by using Hungarian Algorithm. It has a great performance in scenes where crowds frequently intersect.
 
 ### How to Run
 1. Download the pretrained weights of YOLOX and ReID.
